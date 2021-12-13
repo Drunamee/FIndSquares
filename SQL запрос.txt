@@ -1,2 +1,2 @@
-SELECT product_name FROM Product
-GROUP BY Product.category_id
+SELECT name_product, category_name FROM Product
+ORDER BY name_product
