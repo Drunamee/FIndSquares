@@ -1,0 +1,2 @@
+SELECT product_name, category_name FROM Product
+ORDER BY product_name
