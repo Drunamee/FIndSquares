@@ -7,6 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindSquares", "FIndSquares\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "MyLib\MyLib.csproj", "{DF3F30E5-B2DB-4BFF-8F7D-54AC283111C7}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL Запрос", "SQL Запрос", "{80FE111B-17BD-455C-83C5-5CBEEA150B0E}"
+	ProjectSection(SolutionItems) = preProject
+		SQL запрос.txt = SQL запрос.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

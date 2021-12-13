@@ -1,0 +1,2 @@
+SELECT product_name FROM Product
+GROUP BY Product.category_id
