@@ -5,7 +5,12 @@ VisualStudioVersion = 16.0.31624.102
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindSquares", "FIndSquares\FindSquares.csproj", "{14D1D28C-9327-4D0B-990E-4744B8FBF4FC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyLib", "MyLib\MyLib.csproj", "{DF3F30E5-B2DB-4BFF-8F7D-54AC283111C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyLib", "MyLib\MyLib.csproj", "{DF3F30E5-B2DB-4BFF-8F7D-54AC283111C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQL запрос", "SQL запрос", "{98B5E6B5-7711-4C4E-9785-0A28B708699E}"
+	ProjectSection(SolutionItems) = preProject
+		SQL запрос.txt = SQL запрос.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
